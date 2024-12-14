@@ -13,12 +13,6 @@ This project is a **Mouse Controller** app built with **React Native** that allo
 
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Server Code](#server-code)
-- [Known Issues](#known-issues)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
 
 ## Requirements
 
